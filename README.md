@@ -10,8 +10,10 @@ Best used with [Alfred 2](http://www.alfredapp.com/). To do so, don't forget to 
 
 	end alfred_script
 
-This script is dependent on the screenbrightness command line utility.
+__*!!! PLEASE NOTE !!!*__
 
-Get that here: [https://github.com/jmstacey/screenbrightness](https://github.com/jmstacey/screenbrightness)
+This script is dependent on the *brightness* command line utility.
+
+Get that here: [https://github.com/nriley/brightness](https://github.com/nriley/brightness)
 
 Also note that the `/usr/local/bin/` path to the screenbrightness command might need changing depending to the command's location.
